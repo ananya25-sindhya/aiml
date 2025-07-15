@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> this is grwpt index page</title>
+</head>
+
+<body>
+<h1>GRWPT SHIVAMOGGA </h2>
+</p>
+this is grwpt shivamogga,one of the best institute in world!
+in our college divya is intelligent girl..
+</p>
+</body>
+</html>
